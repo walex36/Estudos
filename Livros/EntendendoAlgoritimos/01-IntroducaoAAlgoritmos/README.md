@@ -1,12 +1,3 @@
-# Introdução
-
-Oque é algoritmos são instruções para uma determinada tarefa, oque aprenderemos nos proximos capítulos como:
-
-- Pesquisa Binaria como esse algoritmo pode acelerar nosso codigo.
-- Grafos que é utiliziados em gps para calcular rotas mais curtas.
-- Programação dinâmica para algoritmos de IA.
-
-
 # Pesquisa Binária
 
 - **Pesquisa simples:** Verifica item a item, para uma lista de 8 itens precisa de até 8 verificações para achar um item específico.
